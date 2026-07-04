@@ -1,5 +1,3 @@
-Here is the organized text in a single block:
-
 **AI-Powered Personal Finance Tracker**
 =============================
 
