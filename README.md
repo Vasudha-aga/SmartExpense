@@ -1,78 +1,76 @@
-Here is the organized text in a single block:
+# AI-Powered Personal Finance Tracker (Smart Expense Tracker)
 
-**AI-Powered Personal Finance Tracker**
-=============================
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://smartexpense-knge.onrender.com/)
 
-**Project Overview**
-----------------
+## 🚀 Live Demo
+
+Experience the application live here:  
+**[https://smartexpense-knge.onrender.com/](https://smartexpense-knge.onrender.com/)**
+
+---
+
+## Project Overview
 
 Welcome to the **AI-Powered Personal Finance Tracker**! This project was developed over two months as a task assigned by a client. The goal was to create a comprehensive personal finance management application that leverages AI to provide users with insights into their spending habits, predict future expenses, and offer personalized financial advice. The project was completed successfully, and the client was more than satisfied with the results!
 
-**Features**
----------
+## Features
 
 - **AI-Powered Insights**: Utilizes machine learning models to categorize transactions and predict future expenses.
 - **Interactive Dashboard**: A detailed summary of financial data, including future spending predictions.
 - **Responsive Design**: A seamless experience across devices, thanks to a Bootstrap-designed interface.
 - **User-Friendly Interface**: A clean and modern design that simplifies navigation through financial data.
 
-**Technology Stack**
---------------
+## Technology Stack
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Flask, Python
-- **Machine Learning**: Scikit-learn, Pandas, Numpy
+- **Machine Learning**: Scikit-learn, Pandas, NumPy
 - **Database**: CSV file for transaction data
+- **Deployment**: Render
 
-**Installation & Setup**
--------------------
+## Installation & Setup
 
-1. **Clone the Repository**
+### 1. Clone the Repository
 
-   ```
-   git clone https://github.com/yourusername/finance_tracker.git
-   cd finance_tracker
-   Create a Virtual Environment and Install Dependencies
+```bash
+git clone https://github.com/yourusername/finance_tracker.git
+cd finance_tracker
+```
 
-   Create a Virtual Environment
+### 2. Create and Activate a Virtual Environment
 
-   ```
-   python3 -m venv venv
-   ```
+On macOS/Linux:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
-   Activate the Virtual Environment
+On Windows:
+```cmd
+python -m venv venv
+venv\Scripts\activate
+```
 
-   ```
-   source venv/bin/activate
-   ```
+### 3. Install Required Dependencies
 
-   On Windows:
+```bash
+pip install -r requirements.txt
+```
 
-   ```
-   venv\Scripts\activate
-   ```
+### 4. Run the Application
 
-   Install the Required Dependencies
+```bash
+python app.py
+```
 
-   ```
-   pip install -r requirements.txt
-   ```
+### 5. Access the Application Locally
 
-   Run the Application
+Open your web browser and navigate to:
+```
+http://127.0.0.1:5000/
+```
 
-   ```
-   python app.py
-   ```
-
-   Access the Application
-
-   ```
-   http://127.0.0.1:5000/
-   ```
-
-
-**Project Structure**
-------------------
+## Project Structure
 
 ```
 finance_tracker/
@@ -94,52 +92,42 @@ finance_tracker/
     └── transactions.csv     # Sample transaction data
 ```
 
-**Development Process**
----------------------
+## Development Process
 
-Initial Planning (1 Week)
+### Initial Planning (1 Week)
+- Discussed project requirements with the client.
+- Created a detailed project plan, including milestones and deadlines.
 
-* Discussed project requirements with the client.
-* Created a detailed project plan, including milestones and deadlines.
+### Backend Development (3 Weeks)
+- Set up Flask backend.
+- Developed machine learning models for transaction categorization and expense prediction.
+- Integrated models with the Flask application.
 
-Backend Development (3 Weeks)
+### Frontend Development (2 Weeks)
+- Designed a responsive UI using Bootstrap.
+- Created interactive elements for the dashboard.
 
-* Set up Flask backend.
-* Developed machine learning models for transaction categorization and expense prediction.
-* Integrated models with the Flask application.
+### Testing & Refinement (1 Week)
+- Conducted thorough testing to ensure all features were working as expected.
+- Made necessary refinements based on client feedback.
 
-Frontend Development (2 Weeks)
+### Final Review & Delivery (1 Week)
+- Presented the final product to the client.
+- Made minor adjustments and delivered the project.
 
-* Designed a responsive UI using Bootstrap.
-* Created interactive elements for the dashboard.
+## Author
 
-Testing & Refinement (1 Week)
+This project was created by **Aarav Makhija**. I am a passionate software developer specializing in web development and machine learning. Feel free to connect with me on GitHub!
 
-* Conducted thorough testing to ensure all features were working as expected.
-* Made necessary refinements based on client feedback.
-
-Final Review & Delivery (1 Week)
-
-* Presented the final product to the client.
-* Made minor adjustments and delivered the project.
-
-**Author**
---------
-
-This project was created by Aarav Makhija I am a passionate software developer specializing in web development and machine learning. Feel free to connect with me on GitHub!
-
-**Acknowledgements**
-----------------
+## Acknowledgements
 
 Special thanks to the client who provided this challenging and rewarding opportunity. Your support and feedback were invaluable throughout the development process.
 
-**License**
----------
+## License
 
-This project is licensed under the MIT License. PLEASE DO NOT RESELL
+This project is licensed under the MIT License. **PLEASE DO NOT RESELL.**
 
-**Contact**
----------
+## Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to me on GitHub 
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to me on GitHub!  
 Star this repository ⭐ if you found this project helpful or interesting!
