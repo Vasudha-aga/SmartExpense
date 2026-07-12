@@ -1,10 +1,16 @@
-Here is the organized text in a single block:
 
-**AI-Powered Personal Finance Tracker**
-=============================
+# AI-Powered Personal Finance Tracker (Smart Expense Tracker)
 
-**Project Overview**
-----------------
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://smartexpense-knge.onrender.com/)
+
+## 🚀 Live Demo / Deployed Link
+
+Experience the application live here:  
+**[https://smartexpense-knge.onrender.com/](https://smartexpense-knge.onrender.com/)**
+
+---
+
+## Project Overview
 
 Welcome to the **AI-Powered Personal Finance Tracker**! This project was developed over two months as a task assigned by a client. The goal was to create a comprehensive personal finance management application that leverages AI to provide users with insights into their spending habits, predict future expenses, and offer personalized financial advice. The project was completed successfully, and the client was more than satisfied with the results!
 
