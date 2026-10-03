@@ -93,42 +93,5 @@ finance_tracker/
     └── transactions.csv     # Sample transaction data
 ```
 
-## Development Process
-
-### Initial Planning (1 Week)
-- Discussed project requirements with the client.
-- Created a detailed project plan, including milestones and deadlines.
-
-### Backend Development (3 Weeks)
-- Set up Flask backend.
-- Developed machine learning models for transaction categorization and expense prediction.
-- Integrated models with the Flask application.
-
-### Frontend Development (2 Weeks)
-- Designed a responsive UI using Bootstrap.
-- Created interactive elements for the dashboard.
-
-### Testing & Refinement (1 Week)
-- Conducted thorough testing to ensure all features were working as expected.
-- Made necessary refinements based on client feedback.
-
-### Final Review & Delivery (1 Week)
-- Presented the final product to the client.
-- Made minor adjustments and delivered the project.
-
-## Author
-
-This project was created by **Aarav Makhija**. I am a passionate software developer specializing in web development and machine learning. Feel free to connect with me on GitHub!
-
-## Acknowledgements
-
-Special thanks to the client who provided this challenging and rewarding opportunity. Your support and feedback were invaluable throughout the development process.
-
-## License
-
-This project is licensed under the MIT License. **PLEASE DO NOT RESELL.**
-
-## Contact
-
 If you have any questions, suggestions, or just want to say hi, feel free to reach out to me on GitHub!  
 Star this repository ⭐ if you found this project helpful or interesting!
